@@ -21,6 +21,6 @@ for k in range(1, L):
 
 # your only output for submission should be the final sequence
 
-[ print(item) for item in sequence ]    
+print (sequence)  
 
 # this method is reasonably independent of the choice of data structure
